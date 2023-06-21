@@ -130,11 +130,11 @@
 			</div>
 			<%--footer 영역 --%>
 			<div class="row">
-				<div class="col-sm-8 offset-sm-2">
+				
 					<!-- 메인영역을 동적으로 import 해옴-->
 
 					<c:import url="footer.jsp"></c:import>
-				</div>
+				
 			</div>
 		</div>
 	</div>
